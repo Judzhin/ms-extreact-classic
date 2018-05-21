@@ -2,7 +2,7 @@
     /**
      * The name of the package.
      */
-    "name": "custom-ext-react-theme",
+    "name": "ms-theme-dashboard",
 
     "sencha": {
         /**
